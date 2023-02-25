@@ -296,9 +296,6 @@ a {
 .input{
   border: none;
 }
-#Technology h1, p{
-  color: brown;
-}
 .right-slide,
 .left-slide {
   opacity: 0;
